@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "81E94EA58365BBC7327A3ACC24DFDFAB",
+  "keywordClasses": [
+    {
+      "name": "_DemoBlaze.demoBlaze1",
+      "keywordMethods": [
+        {
+          "name": "KeywordRandoma",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

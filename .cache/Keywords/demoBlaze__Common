@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "065A8ADF6BA04C2B0F6F6846E6027D5F",
+  "keywordClasses": [
+    {
+      "name": "demoBlaze.Common",
+      "keywordMethods": [
+        {
+          "name": "KeywordRandoma",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

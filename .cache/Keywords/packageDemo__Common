@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "57E2D6CF6DAF7E76A573D4BCFF92069C",
+  "keywordClasses": [
+    {
+      "name": "packageDemo.Common",
+      "keywordMethods": [
+        {
+          "name": "KeywordRandoma",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
